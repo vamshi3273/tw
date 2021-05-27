@@ -1628,9 +1628,9 @@ div.timeline-pubbox-container {
           min-height: 40px;
           max-height: 400px;
           resize: none;
-          font-size: 16px;
+          font-size: 18px;
           color: #14171a;
-          line-height: 20px;
+          line-height: 22px;
           border: none;
           border-radius: 0px;
           outline: 0; }
