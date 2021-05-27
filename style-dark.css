@@ -1,5 +1,9 @@
 main.main-content-container {
-  background: #15212b; }
+  background: #0d1319; }
+  
+  main.main-content-container div.main-content-container-inner div.left-sb-container {
+    background: #0d1319 !important; }
+    
   main.main-content-container div.main-content-container-inner div.left-sb-container {
     background: #15212b; }
     main.main-content-container div.main-content-container-inner div.left-sb-container div.sidebar__inner div.user-info div.uname h5 {
@@ -20,8 +24,13 @@ main.main-content-container {
       color: #93b7d8 !important; }
     main.main-content-container div.main-content-container-inner div.left-sb-container div.sidebar__inner div.publish-post-btn {
       border-color: #586d7b; }
+      
+      div.left-sb-container div.sidebar__inner {
+      background-color: #0d1319 !important;
+      }
+    
   main.main-content-container div.main-content-container-inner div.right-sb-container {
-    background: #15212b; }
+    background: #0d1319; }
     main.main-content-container div.main-content-container-inner div.right-sb-container div.sidebar__inner div.main-search-bar-container form div.input-holder input {
       background: #253341;
       border: none;
@@ -92,8 +101,8 @@ main.main-content-container {
     main.main-content-container div.main-content-container-inner div.right-sb-container div.sidebar__inner div.main-footer ul.footer-nav li.footer-nav-item > a {
       color: #93b7d8; }
   main.main-content-container div.main-content-container-inner div.timeline-container-wrapper {
-    background: #15212b;
-    border-color: #586d7b; }
+    background: #0d1319;
+    border-color: #2d425d; }
     main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-header {
       border-color: #586d7b; }
       main.main-content-container div.main-content-container-inner div.timeline-container-wrapper div.timeline-container-inner div.timeline-container div.timeline-header div.lp div.nav-link-holder a {
