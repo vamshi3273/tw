@@ -2310,6 +2310,7 @@ div.timeline-pubbox-container {
           border-radius: 10em;
           position: relative;
           cursor: pointer;
+          color: #1ca1f3;
           transition: all 0.10s ease-in-out; }
           div.timeline-pubbox-container > div.rp form div.post-ctrls-holder button.ctrl-item svg {
             width: 22px;
