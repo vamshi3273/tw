@@ -879,15 +879,21 @@ main.main-content-container {
                 height: 1px;
                 background: #e6ecf0; }
               main.main-content-container div.main-content-container-inner div.left-sb-container div.sidebar__inner div.guest-welcome div.tos-agreement div.block-footer span {
-                font-size: 10px;
+                font-size: 12px;
                 line-height: 16px;
                 color: #5b7083; }
+              .block-footer .sidebar-signup{ margin-top:15px}
               main.main-content-container div.main-content-container-inner div.left-sb-container div.sidebar__inner div.guest-welcome div.tos-agreement div.block-footer a {
-                font-size: 10px;
-                line-height: 16px;
-                color: #1ca1f3;
-                font-weight: 500;
-                opacity: 0.7; }
+                font-size: 13px;
+                line-height: 20px;
+                color: #f2ff26;
+                font-weight: 600;
+                opacity: 0.8;  border: 1px solid #83ff7b;
+    padding: 8px 12px;
+    border-radius: 25px;
+    background: #000000;
+    font-weight: 600;
+}
         main.main-content-container div.main-content-container-inner div.left-sb-container div.sidebar__inner div.user-info {
           width: 100%;
           display: inline-flex;
